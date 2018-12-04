@@ -1,0 +1,23 @@
+.columnTitle {
+  text-align: center;
+}
+
+.schedulerContainer {
+  width: 100%;
+  overflow: auto;
+}
+
+.schedulerColumn {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  height: 750px;
+  overflow: scroll;
+}
+
+.listItem {
+  background: white;
+  border: none;
+  width: 100%;
+  margin: 0px 5px;
+}
